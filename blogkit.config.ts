@@ -6,7 +6,7 @@ export default defineConfig({
   siteConfig: {
     title: "Blogkit example",
     author: "2nthony",
-    url: "https://github.com/2nthony/example",
+    url: "https://github.com/2nthony/blogkit-example",
   },
   theme,
   request,
