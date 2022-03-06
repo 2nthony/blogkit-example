@@ -3,14 +3,14 @@ lockfileVersion: 5.3
 specifiers:
   '@types/node': 17.0.21
   '@types/react': 17.0.39
-  blogkit: ^0.3.3
+  blogkit: ^0.3.4
   next: 12.1.0
   react: 17.0.2
   react-dom: 17.0.2
   typescript: 4.6.2
 
 dependencies:
-  blogkit: 0.3.3_next@12.1.0
+  blogkit: 0.3.4_next@12.1.0
   next: 12.1.0_react-dom@17.0.2+react@17.0.2
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
@@ -145,8 +145,8 @@ packages:
     resolution: {integrity: sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==}
     dev: true
 
-  /blogkit/0.3.3_next@12.1.0:
-    resolution: {integrity: sha512-s0v9Yej4Nzld0vH65IFNvd/s4w/mSYNra7rRXbxRqsTBMGyZAhLyo2NYFuetw7xuS9w6vhGnoosEFe258fTLDw==}
+  /blogkit/0.3.4_next@12.1.0:
+    resolution: {integrity: sha512-Rc7avsMJEU790zkyisSz5lkKwc9Rz19zpiuF3EGkNCwSaDnm3AZ4PDswbqEQLHiXDnd/ep5QA67CqesMuZ+XSw==}
     peerDependencies:
       next: ^12.1.0
     dependencies:

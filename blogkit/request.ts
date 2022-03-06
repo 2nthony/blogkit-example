@@ -2,7 +2,6 @@ import { Request } from "blogkit";
 import { getPost, getPostList } from "./server";
 
 export const request: Request = {
-  // @ts-ignore
   async getPostList() {
     // const posts = await fetch('/api/getPostList')
     const posts = await getPostList();
